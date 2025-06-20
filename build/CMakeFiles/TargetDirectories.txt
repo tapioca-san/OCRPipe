@@ -1,0 +1,7 @@
+/home/pipebomb/dev/cpp/copiaTexto/build/CMakeFiles/GAME.dir
+/home/pipebomb/dev/cpp/copiaTexto/build/CMakeFiles/edit_cache.dir
+/home/pipebomb/dev/cpp/copiaTexto/build/CMakeFiles/rebuild_cache.dir
+/home/pipebomb/dev/cpp/copiaTexto/build/CMakeFiles/list_install_components.dir
+/home/pipebomb/dev/cpp/copiaTexto/build/CMakeFiles/install.dir
+/home/pipebomb/dev/cpp/copiaTexto/build/CMakeFiles/install/local.dir
+/home/pipebomb/dev/cpp/copiaTexto/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/pipebomb/dev/cpp/copiaTexto/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
